@@ -1,0 +1,54 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+button {
+    background-image: url();
+    width: 200px;
+    height: 200px;
+}
+h3 {
+    text-align: center;
+    font-size: 200%;
+    margin-top: 0%;
+}
+
+div {
+    display: inline-block;
+}
+.g1 {
+    display: flex;
+    justify-content: center;
+}
+.g2 {
+    display: flex;
+    justify-content: center;
+}
+button {
+    margin: 10px;
+}
+.vaca {
+    background-image: url(vaca001.png);
+    background-size: 100%;
+    background-color: red;
+}
+.perro{
+    background-image: url(perro.png);
+    background-size: 100%;
+    background-color: blue;
+}
+.gallina{
+    background-image: url(gallina003.png);
+    background-size: 100%;
+    background-color: green;
+}
+.oveja{
+    background-image: url(oveja001.png);
+    background-size: 100%;
+    background-color: yellow;
+    background-repeat: no-repeat;
+}
